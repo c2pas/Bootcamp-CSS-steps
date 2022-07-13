@@ -1,0 +1,18 @@
+h1{
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
+p strong{
+    color: blue;
+}
+img{
+    border-radius: 50%;
+}
+h3{
+    color: red;
+}
+a{
+    color: green;
+    text-decoration: underline;
+}
